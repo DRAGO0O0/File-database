@@ -1,0 +1,149 @@
+[
+    {
+        "GradeID": 1,
+        "StudentName": "\u0410\u043d\u043d\u0430",
+        "Class": "10A",
+        "Subject": "\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430",
+        "Score": 5
+    },
+    {
+        "GradeID": 2,
+        "StudentName": "\u0418\u0432\u0430\u043d",
+        "Class": "10B",
+        "Subject": "\u0424\u0438\u0437\u0438\u043a\u0430",
+        "Score": 4
+    },
+    {
+        "GradeID": 3,
+        "StudentName": "\u041c\u0430\u0440\u0438\u044f",
+        "Class": "11A",
+        "Subject": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+        "Score": 5
+    },
+    {
+        "GradeID": 4,
+        "StudentName": "\u041f\u0435\u0442\u0440",
+        "Class": "11B",
+        "Subject": "\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430",
+        "Score": 3
+    },
+    {
+        "GradeID": 5,
+        "StudentName": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430",
+        "Class": "9A",
+        "Subject": "\u0418\u0441\u0442\u043e\u0440\u0438\u044f",
+        "Score": 5
+    },
+    {
+        "GradeID": 6,
+        "StudentName": "\u0410\u043b\u0435\u043a\u0441\u0435\u0439",
+        "Class": "9B",
+        "Subject": "\u0424\u0438\u0437\u0438\u043a\u0430",
+        "Score": 4
+    },
+    {
+        "GradeID": 7,
+        "StudentName": "\u0410\u043d\u043d\u0430",
+        "Class": "10A",
+        "Subject": "\u041b\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u0430",
+        "Score": 4
+    },
+    {
+        "GradeID": 8,
+        "StudentName": "\u041c\u0438\u0445\u0430\u0438\u043b",
+        "Class": "11A",
+        "Subject": "\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430",
+        "Score": 4
+    },
+    {
+        "GradeID": 9,
+        "StudentName": "\u041e\u043b\u044c\u0433\u0430",
+        "Class": "11B",
+        "Subject": "\u0411\u0438\u043e\u043b\u043e\u0433\u0438\u044f",
+        "Score": 5
+    },
+    {
+        "GradeID": 10,
+        "StudentName": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439",
+        "Class": "9A",
+        "Subject": "\u0425\u0438\u043c\u0438\u044f",
+        "Score": 4
+    },
+    {
+        "GradeID": 11,
+        "StudentName": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430",
+        "Class": "9B",
+        "Subject": "\u0413\u0435\u043e\u0433\u0440\u0430\u0444\u0438\u044f",
+        "Score": 5
+    },
+    {
+        "GradeID": 12,
+        "StudentName": "\u0410\u043b\u0435\u043a\u0441\u0435\u0439",
+        "Class": "10A",
+        "Subject": "\u0410\u043b\u0433\u0435\u0431\u0440\u0430",
+        "Score": 5
+    },
+    {
+        "GradeID": 13,
+        "StudentName": "\u0418\u0440\u0438\u043d\u0430",
+        "Class": "10B",
+        "Subject": "\u0424\u0438\u0437\u0438\u043a\u0430",
+        "Score": 3
+    },
+    {
+        "GradeID": 14,
+        "StudentName": "\u041f\u0430\u0432\u0435\u043b",
+        "Class": "11A",
+        "Subject": "\u0418\u0441\u0442\u043e\u0440\u0438\u044f",
+        "Score": 4
+    },
+    {
+        "GradeID": 15,
+        "StudentName": "\u041d\u0430\u0442\u0430\u043b\u044c\u044f",
+        "Class": "11B",
+        "Subject": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+        "Score": 5
+    },
+    {
+        "GradeID": 16,
+        "StudentName": "\u0410\u043d\u0434\u0440\u0435\u0439",
+        "Class": "9A",
+        "Subject": "\u0424\u0438\u0437\u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430",
+        "Score": 5
+    },
+    {
+        "GradeID": 17,
+        "StudentName": "\u0421\u0432\u0435\u0442\u043b\u0430\u043d\u0430",
+        "Class": "9B",
+        "Subject": "\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0430",
+        "Score": 4
+    },
+    {
+        "GradeID": 18,
+        "StudentName": "\u0415\u0432\u0433\u0435\u043d\u0438\u0439",
+        "Class": "10A",
+        "Subject": "\u041c\u0443\u0437\u044b\u043a\u0430",
+        "Score": 4
+    },
+    {
+        "GradeID": 19,
+        "StudentName": "\u0422\u0430\u0442\u044c\u044f\u043d\u0430",
+        "Class": "10B",
+        "Subject": "\u041b\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u0430",
+        "Score": 5
+    },
+    {
+        "GradeID": 20,
+        "StudentName": "\u0410\u043d\u0442\u043e\u043d",
+        "Class": "11A",
+        "Subject": "\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430",
+        "Score": 5
+    },
+    {
+        "GradeID": 21,
+        "StudentName": "\u044b\u0432\u0430",
+        "Class": "\u0432\u0430",
+        "Subject": "\u0432\u0430",
+        "Score": 23.0
+    }
+]
